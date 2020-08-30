@@ -1,0 +1,40 @@
+.title-color{
+    color:#15CBAC;
+    font-family: playfair diplay, serif;
+    font-weight: 600;
+}
+
+body {
+    background-image: 
+url('ignasi_pattern_s.png');
+}
+
+.container {
+    padding-top: 70px;
+
+}
+
+.image-paragraph {
+    border-top: .5px solid rgb(180, 180, 180);
+    padding-top: 20px;
+    display: flex;
+}
+
+h1 {
+    color:#15CBAC;
+    font-family: playfair diplay, serif;
+    font-weight: 700;
+}
+
+p{
+    font-size: 12pt;
+}
+
+.img {
+    height: 180px;
+    width: 180px;
+}
+
+#p1 {
+
+}
