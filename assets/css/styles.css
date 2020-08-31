@@ -44,6 +44,7 @@ p{
 .page-footer {
     border-top: 5px solid #15CBAC;
     background-color: #616161;
+    position:fixed;bottom:0;left:0;right:0;
 
 
 }
