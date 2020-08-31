@@ -1,7 +1,12 @@
 .title-color{
-    color:#15CBAC;
-    font-family: playfair diplay, serif;
+    background-color:#15CBAC;
+    font-family: Merriweather, serif;
+    letter-spacing: .7px;
+    font-size: 18pt;
     font-weight: 600;
+    color: whitesmoke
+    
+    
 }
 
 body {
@@ -11,18 +16,19 @@ url('ignasi_pattern_s.png');
 
 .container {
     padding-top: 70px;
-
+    padding-bottom: 70px;
+    margin-left: 20px;
 }
 
-.image-paragraph {
+.image-paragraph-divider {
     border-top: .5px solid rgb(180, 180, 180);
     padding-top: 20px;
-    display: flex;
+
 }
 
 h1 {
     color:#15CBAC;
-    font-family: playfair diplay, serif;
+    font-family: Merriweather, serif;
     font-weight: 700;
 }
 
@@ -30,11 +36,14 @@ p{
     font-size: 12pt;
 }
 
-.img {
+.img mr-3 {
     height: 180px;
     width: 180px;
 }
 
-#p1 {
+.page-footer {
+    border-top: 5px solid #15CBAC;
+    background-color: #616161;
+
 
 }
