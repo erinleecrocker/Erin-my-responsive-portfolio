@@ -18,6 +18,7 @@ url('ignasi_pattern_s.png');
     padding-top: 70px;
     padding-bottom: 70px;
     margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 .image-paragraph-divider {
@@ -46,5 +47,11 @@ p{
     background-color: #616161;
     position:fixed;bottom:0;left:0;right:0;
 
+
+}
+
+.portfolio-image {
+    margin-bottom: 40px;
+    padding-top: 10px;
 
 }
