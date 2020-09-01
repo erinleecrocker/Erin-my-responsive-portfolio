@@ -55,3 +55,13 @@ p{
     padding-top: 10px;
 
 }
+
+.form-group{
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.button{
+    background-color:#15CBAC;
+    border: 7px solid #15CBAC;
+}
