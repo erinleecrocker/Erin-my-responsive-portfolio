@@ -24,6 +24,14 @@ url('ignasi_pattern_s.png');
 .image-paragraph-divider {
     border-top: .5px solid rgb(180, 180, 180);
     padding-top: 20px;
+    margin-right: 20px;
+    
+
+}
+
+.card-body{
+    padding-bottom: 50px;
+    margin-left: 15px;
 
 }
 
@@ -53,6 +61,8 @@ p{
 .portfolio-image {
     margin-bottom: 40px;
     padding-top: 10px;
+    height: 250px;
+    width: 250px;
 
 }
 
@@ -64,4 +74,5 @@ p{
 .button{
     background-color:#15CBAC;
     border: 7px solid #15CBAC;
+    margin-bottom: -30px;
 }
